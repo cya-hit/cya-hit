@@ -6,4 +6,4 @@
 
 ## Short Bio
 I am a master's student at Harbin Institute of Technology. My research interests lie in backend development and computer vision.  
-You can [find my resume here](replace_with_actual_link_if_available). 
+You can [find my CV here](CV.pdf). 
