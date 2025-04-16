@@ -12,5 +12,5 @@ You can [find my CV here](CV.pdf).
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cya-hit)
 
-![](https://stats.justsong.cn/api/csdn?id=m0_73719342)
+
 
