@@ -11,4 +11,4 @@ You can [find my CV here](CV.pdf).
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cya-hit)
-![visitors](https://visitor-badge.glitch.me/badge?cya-hit=page.id&left_color=green&right_color=red)
+
