@@ -8,3 +8,6 @@
 I am a master's student at Harbin Institute of Technology. My research interests lie in software development and deep learning. 
 I'm currently looking for jobs related to software development and deep learning. 
 You can [find my CV here](CV.pdf). 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cya-hit)
