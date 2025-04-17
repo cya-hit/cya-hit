@@ -1,4 +1,4 @@
-# Yi'an Chen (陈亦安)
+# Yi'an Chen 陈亦安
 
 ## Personal Information
 - **University**：School of Computer Science and Technology, Harbin Institute of Technology, Harbin, Heilongjiang Province, China.
