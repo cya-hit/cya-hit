@@ -3,7 +3,7 @@
 ## Personal Information
 - **University**：School of Computer Science and Technology, Harbin Institute of Technology, Harbin, Heilongjiang Province, China.
 - **Email**：2285182779@qq.com
-
+- **My tutor's Home Page**：https://homepage.hit.edu.cn/luogongning；https://homepage.hit.edu.cn/wangkuanquan；
 ## Short Bio
 I am a master's student at Harbin Institute of Technology. My research interests lie in software development and deep learning. 
 I'm currently looking for jobs related to software development and deep learning. 
