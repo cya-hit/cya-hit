@@ -3,6 +3,7 @@
 ## Personal Information
 - **University**：School of Computer Science and Technology, Harbin Institute of Technology, Harbin, Heilongjiang Province, China.
 - **Email**：2285182779@qq.com
+- **Wechat**：cya2002yyds
 
 ## Short Bio
 I am a master's student at Harbin Institute of Technology. My research interests lie in software development and deep learning. 
