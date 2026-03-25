@@ -7,7 +7,7 @@
 
 ## Short Bio
 I am a master's student at Harbin Institute of Technology. My research interests lie in software development and deep learning. 
-I'm currently looking for jobs related to software development and deep learning. 
+I'm currently looking for jobs related to software development and deep learning. Now I am working for jingdongtechnology!
 You can [find my CV here](CV.pdf). 
 
 
